@@ -2,9 +2,6 @@
 
 <h1 align="center">Rafael Dombroski - Desenvolvedor Web & Lua 🧠</h1>
 
-<div align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Seu+Projeto+ou+Foto" alt="Imagem de perfil ou projeto">
-</div>
 
 <br />
 
