@@ -2,7 +2,7 @@
 
 # 👋 Fala aí!
 
-Sou o Rafael, tenho 17 anos e sou do Paraná, Brasil 🇧🇷
+Sou o Rafael, tenho 17 anos e sou do Paraná, Brasil 
 
 Atualmente focado em projetos de **Desenvolvimento Front-End**, com experiência prática em frameworks modernos, design responsivo e integração de APIs.
 
