@@ -37,5 +37,5 @@ Atualmente focado em projetos de **Desenvolvimento Front-End**, com experiência
 
 ## 🌐 Meus Links
 
-- 🔗 [Portfólio](https://rafael-linkss.vercel.app)
-- 💬 Discord: `rafaeldombroski`
+- 🔗 [Portfólio](https://rafaeldev.xyz)
+- 💬 Discord: `zezinkw`
