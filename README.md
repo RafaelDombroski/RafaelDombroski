@@ -6,9 +6,9 @@ Rafae, 17, Paraná! 🤖
 
 > Desenvolvedor Front-End com experiência em seus frameworks e familiarizado com metodologias ágeis..
 
-`📚` Software Engeneering
+`🎓` Engenharia de Software
 <br>
-`❤️` Apaixonado por **Desenvolvimento Web.**
+`💕` Apaixonado por **Desenvolvimento Web.**
 
 <img align="center" href="https://rafael-linkss.vercel.app" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDombroski&layout=compact&theme=transparent" alt="My Github Stats">
 
