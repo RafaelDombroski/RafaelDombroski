@@ -1,37 +1,31 @@
-<br />
+<img src="https://cdn.discordapp.com/attachments/1333288947421417515/1381442389175959623/ChatGPT_Image_Jun_8_2025_10_18_44_PM.png?ex=684787fb&is=6846367b&hm=9ddd09dfc1722a92b000bbce080f2905d34f6a316546668965eab29dcdb2cec0&" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1 align="center">Rafael Dombroski - Desenvolvedor Web & Lua 🧠</h1>
+<h1>🙋‍♂️ Olá, mundo!</h1>
 
+Rafae, 17, Paraná! 🤖
 
-<br />
+> Desenvolvedor Front-End com experiência em seus frameworks e familiarizado com metodologias ágeis..
 
-> :wave: Olá! Eu sou Rafael Dombroski, um desenvolvedor apaixonado por criar aplicações web modernas e eficientes.  
-> Trabalho com diversas tecnologias para construir interfaces e sistemas robustos e escaláveis.  
-><br>
+`📚` Software Engeneering
+<br>
+`❤️` Apaixonado por **Desenvolvimento Web.**
 
-## :computer: Tecnologias que utilizo
+<img align="center" href="https://rafael-linkss.vercel.app" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDombroski&layout=compact&theme=transparent" alt="My Github Stats">
 
-<ul>
-  <li>HTML</li>
-  <li>CSS / Sass</li>
-  <li>JavaScript / TypeScript</li>
-  <li>React JS</li>
-  <li>Next JS</li>
-  <li>Lua</li>
-</ul>
+## - 🧠 Technologias e Conhecimentos
 
-## :rocket: Sobre mim
-
-<p>
-  Sou especializado em desenvolvimento front-end e tenho experiência com frameworks modernos, focando sempre na melhor experiência para o usuário e desempenho das aplicações. Também trabalho com Lua para projetos específicos que exigem essa linguagem.
-</p>
-
-<br />
-
-<!-- Links para redes ou portfólio, se quiser adicionar -->
-
-<div align="center">
-  <a href="https://github.com/seu-usuario" target="_blank">GitHub</a> | 
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">LinkedIn</a> | 
-  <a href="https://seu-site.com" target="_blank">Portfolio</a>
-</div>
+[![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
+[![](https://skillicons.dev/icons?i=bun)](https://bun.sh/docs)
+[![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/docs/)
+[![](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/guide/)
+[![](https://skillicons.dev/icons?i=react)](https://reactjs.org/docs/getting-started.html)
+[![](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
+[![](https://skillicons.dev/icons?i=next)](https://nextjs.org/docs)
+[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs)
+[![](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/docs)
+[![](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/documentation)
+[![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
+[![](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
+[![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/#/docs/main/stable/general/welcome)
