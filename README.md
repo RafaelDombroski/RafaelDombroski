@@ -25,6 +25,7 @@ Atualmente focado em projetos de **Desenvolvimento Front-End**, com experiência
 [![](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/documentation)
 [![](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
+[![](https://skillicons.dev/icons?i=lua)](https://www.lua.org/docs.html)
 [![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/#/docs/main/stable/general/welcome)
 
 ---
